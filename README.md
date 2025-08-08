@@ -1,5 +1,4 @@
---Basic Analysis
---Q1. How many students got placed VS not placed..?
+
 <img width="567" height="210" alt="image" src="https://github.com/user-attachments/assets/825d5513-a64a-434a-8213-1c4ff7c47f12" />
 
 -- Q2.Average CGPA, IQ, and Communication Score of placed students
